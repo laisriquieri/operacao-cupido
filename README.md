@@ -1,7 +1,5 @@
 # MatchMaker: Cupido Virtual
 
-# missao-cupido 
-
 Bem-vindo ao "MatchMaker: Cupido Virtual" - o jogo que coloca você no papel de um cupido moderno! Prepare-se para mergulhar em um mundo de histórias, conexões e amor verdadeiro.
 
 Explore a fundo a vida dos personagens, mergulhando em suas histórias cativantes, idades, alturas, gostos, e hobbys. Cada personagem é único, com suas próprias personalidades, sonhos e desejos. Descubra o que os torna especiais e como suas vidas se entrelaçam.
