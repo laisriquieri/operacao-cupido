@@ -13,6 +13,6 @@ Principais características:
 Perfis detalhados dos personagens com histórias emocionantes, gostos, hobbies e muito mais.
 Liberdade para agir como cupido, escolhendo os pares ideais entre os personagens.
 Sistema de porcentagem de compatibilidade para avaliar as chances de sucesso dos casais.
-Prepare-se para desvendar histórias emocionantes, criar conexões significativas e ver se suas combinações têm o que é preciso para serem um sucesso amoroso! Em "MatchMaker: Cupido Virtual", o amor está ao seu alcance.
+Prepare-se para desvendar histórias emocionantes, criar conexões significativas e ver se suas combinações têm o que é preciso para serem um sucesso amoroso! Em MatchMaker: Cupido Virtual, o amor está ao seu alcance.
 
 Está pronto para criar o par perfeito? Venha e descubra o poder do amor neste jogo cativante!
